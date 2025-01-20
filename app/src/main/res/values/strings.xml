@@ -1,0 +1,14 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">My Application</string>
+    <string name="result">Id: %1$s, Имя %2$s, Возраст %3$s, Вес %4$s, Рост %5$s\n\n</string>
+    <string-array name="sort_options">
+        <item>По имени</item>
+        <item>По возрасту</item>
+        <item>По весу</item>
+        <item>По росту</item>
+    </string-array>
+=======
+    <string name="app_name">Animations</string>
+>>>>>>> 139cb71 (first commit)
+</resources>
